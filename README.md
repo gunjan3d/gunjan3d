@@ -45,9 +45,7 @@
 ---
 
 📈 **GitHub Stats**  
-![GitHub Streak](https://streak-stats.demolab.com?user=gunjan3d&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjan3d&layout=compact&theme=radical)  
-![Gunjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunjan3d&show_icons=true&theme=radical)
 
 ---
 
