@@ -59,4 +59,4 @@
 
 📫 **Let's Connect!**  
 - [LinkedIn]([https://linkedin.com/in/gunjan3d](https://www.linkedin.com/in/gunjan-sarode3966/))  
-- 📧 gunjan.sarode@example.com  
+- 📧 gunjansarode6@gmail.com
